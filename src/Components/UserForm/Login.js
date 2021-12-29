@@ -22,7 +22,7 @@ const handleButton =() =>{
            <h3>{user.displayName}</h3>
 
        
-       <button onClick={hendelButton}>Google Login</button>
+       <button onClick={handleButton}>Google Login</button>
        
         <button onClick={logout}> Log out</button>
         </div>
